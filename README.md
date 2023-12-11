@@ -6,21 +6,21 @@ Code to reproduce simulation results, figures, and real data analysis results fr
 
 ### simulation-code  
 
-Simulation_6.1.1.R evaluates effect of grouping and produces the results displayed in Table 1. 
+-Simulation_6.1.1.R evaluates effect of grouping and produces the results displayed in Table 1. 
 
-Simulation_6.1.2_p.R, Simulation_6.1.2_n.R, and Simulation_6.1.2_M.R evaluates effect of heavy-tail noise and produce the results displayed  in Figure 3.  
+-Simulation_6.1.2_p.R, Simulation_6.1.2_n.R, and Simulation_6.1.2_M.R evaluates effect of heavy-tail noise and produce the results displayed  in Figure 3.  
 
-Simulation_6.1.3.R evaluates the effect of tuning parameters and produces the results displayed in Figure 4.
+-Simulation_6.1.3.R evaluates the effect of tuning parameters and produces the results displayed in Figure 4.
 
-Simulation_6.1.4.R evaluates effect of partial participation and produces the results displayed in Figure 5.
+-Simulation_6.1.4.R evaluates effect of partial participation and produces the results displayed in Figure 5.
 
-Functions_PerFL-RSR.R contains usr defined functions for implementing of the the proposed method.
+-Functions_PerFL-RSR.R contains usr defined functions for implementing of the the proposed method.
 
-Functions_other_models.R contains functions for implementing the compared methods in the paper.
+-Functions_other_models.R contains functions for implementing the compared methods in the paper.
 
-Functions_regularizer.R contains functions for the regularization.
+-Functions_regularizer.R contains functions for the regularization.
 
-Functions_evaluation.R contains evaluation functions.
+-Functions_evaluation.R contains evaluation functions.
 
 
 ### simulation-results  
